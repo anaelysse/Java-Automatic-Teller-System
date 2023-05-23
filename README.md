@@ -11,6 +11,14 @@ Every customer is able to have both a savings and checking account under the sam
 
 Customers are able to make deposits and withdraw money however many times they need, until they leave.
 
+//
+
+//
+
+//
+
+//
+
 CLIENT CLASS:
 
 
@@ -45,6 +53,14 @@ Where Double is the java class Double, and Client is our class Client.
 This is because Java hashmaps MUST have objects as both keys AND values.
 Therefore, we must use the Double class, not the primitive “double”.
 
+//
+
+//
+
+//
+
+//
+
 BANK ACCOUNT CLASS
 
 
@@ -68,13 +84,13 @@ In our ATM, we have an exception.
 
 A user may want to withdraw, or unknowingly withdraw more money than they have stored in their account. When this happens, there is an error
 
-/
+//
 
-/
+//
 
-/
+//
 
-/
+//
 
 ATM Class
 

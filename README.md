@@ -61,7 +61,7 @@ Therefore, we must use the Double class, not the primitive “double”.
 
 //
 
-BANK ACCOUNT CLASS
+BANK ACCOUNT CLASS:
 
 
 Bank accounts allow for customers to deposit and withdraw money from either "checking" or "savings."
@@ -92,7 +92,7 @@ A user may want to withdraw, or unknowingly withdraw more money than they have s
 
 //
 
-ATM Class
+ATM Class:
 
 
 The ATM Class only deals with the Client Classes.

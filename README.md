@@ -10,11 +10,8 @@ Bank customers utilize and access banks in different ways.
 Every customer is able to have both a savings and checking account under the same ATM Client object. Both these accounts will be able to store money. 
 
 Customers are able to make deposits and withdraw money however many times they need, until they leave.
-/
-/
-/
-/
-CLIENT CLASS
+
+CLIENT CLASS:
 
 
 Customers are represented by a Client object.
@@ -47,10 +44,7 @@ Where Double is the java class Double, and Client is our class Client.
 
 This is because Java hashmaps MUST have objects as both keys AND values.
 Therefore, we must use the Double class, not the primitive “double”.
-/
-/
-/
-/
+
 BANK ACCOUNT CLASS
 
 
@@ -73,10 +67,15 @@ Exceptions are unwanted events in the execution of a java program
 In our ATM, we have an exception. 
 
 A user may want to withdraw, or unknowingly withdraw more money than they have stored in their account. When this happens, there is an error
+
 /
+
 /
+
 /
+
 /
+
 ATM Class
 
 

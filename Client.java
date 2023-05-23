@@ -88,7 +88,7 @@ public class Client{
                         input.nextLine();
                         chosenAccount.withdraw(withdrawAmount);
                     }else{
-                        System.out.println("enter a NUMBER >:(");
+                        System.out.println("enter a NUMBER");
                     }
                 }
                 catch(AccountException e){
